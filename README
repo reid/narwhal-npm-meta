@@ -1,0 +1,7 @@
+Install narwhal and narwhal-lib packages from reid/narwhal-node and reid/narwhal-lib by running:
+
+  npm install .
+
+in the cloned repository.
+
+Then run that command in this cloned repository.

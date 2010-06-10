@@ -1,7 +1,7 @@
-{ "name" : "narwhal"
+{ "name" : "narwhal-meta"
 , "version" : "0.0.1"
 , "author" : "Isaac Z. Schlueter <i@izs.me>"
-, "dependencies" : { "narwhal-lib" : "", "node-narwhal" : "" }
+, "dependencies" : { "narwhal-lib" : ">= 0.0.2", "narwhal" : ">= 0.0.2" }
 , "conflicts" : { "fs-base" : "", "system" : "", "assert" : "", "test" : "" }
 , "scripts" :
   { "activate" : "./scripts/link.sh"

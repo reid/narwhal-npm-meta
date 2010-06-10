@@ -2,7 +2,8 @@
 
 d=$npm_config_root/.npm/$npm_package_name/$npm_package_version/dependencies/
 nl=$d/narwhal-lib/narwhal
-nn=$d/node-narwhal/narwhal
+# narwhal-node is here:
+nn=$d/narwhal/narwhal
 lib=$npm_config_root/.npm/$npm_package_name/$npm_package_version/package/lib/
 
 
